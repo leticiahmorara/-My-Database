@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117553129473",
+    "project_id": "my-safari-app",
+    "storage_bucket": "my-safari-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117553129473:android:93b544bb7a038e8894f800",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseddatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117553129473-k2u9vlvqg30rpbq8827kdk8niku71jqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_ZkJqXH3TyKHqxsn0wx8Vnxnlfhmz6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117553129473-k2u9vlvqg30rpbq8827kdk8niku71jqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
